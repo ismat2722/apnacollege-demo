@@ -2,4 +2,4 @@
 
 this is my first project
 <br>
-authorr - ismat saiyed
+authorr - SAIYED ISMAT
